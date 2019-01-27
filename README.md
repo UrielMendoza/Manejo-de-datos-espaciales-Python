@@ -3,12 +3,12 @@ Curso intersemestral Ingeniería Geomatica
 Ejercicios de manejo de datos espaciales:
 Modulos Python:
 
--Shapely
+-Introduccion a python
+
+-Shapely y Geopandas
 
 -Numpy
 
+-GDAL y Pyproj
+
 -Cartopy
-
--Pyproj
-
--Geopandas
